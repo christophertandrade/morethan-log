@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Christopher Andrade Blog",
+    title: "Blog",
     description: "welcome to my site",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
