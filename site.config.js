@@ -7,19 +7,19 @@ const CONFIG = {
     bio: "Network Engineering and Security Student",
     email: "christophertandrade@gmail.com",
     linkedin: "morethanmin",
-    github: "morethanmin",
+    github: "",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `Christopher Andrade Blog`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Christopher Andrade Blog",
+    description: "welcome to my site",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
